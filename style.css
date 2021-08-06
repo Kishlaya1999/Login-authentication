@@ -15,7 +15,7 @@
 
 .login {
      background-color: #fff;
-     width: 400px;
+     min-width: 350px;
      height: 500px;
      display: flex;
      flex-direction: column;
@@ -35,8 +35,6 @@
 input {
      width: 300px;
 }
-
-
 
 form{
      display: flex; 
